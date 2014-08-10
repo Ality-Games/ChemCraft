@@ -1,0 +1,14 @@
+{
+ {[
+    "modid": "chemaff",
+    "name": "Chemical Affinity",
+    "description": "(Add Desc Later)",
+    "version": "1.0.1",
+    "mcversion": "1.7.10",
+    "url": "(leave blank possibliy remove)",
+    "updateUrl": "(adfly link goes here)",
+    "authorList": [ "Ality" ],
+    "credits": "Authored by Ality, Textures Done By Suntium, Special Thanks To Jimothybob And Suntium For The Help In Research",
+    "logoFile": "To Add",
+  }]
+}

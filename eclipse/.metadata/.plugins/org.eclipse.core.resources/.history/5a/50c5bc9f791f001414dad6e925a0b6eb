@@ -1,0 +1,10 @@
+package com.Ality.chemaff;
+
+import cpw.mods.fml.common.Mod;
+
+
+@Mod(modid="Chemaff", name="Chemical Affinity", version="1.0.1")
+
+public class chemaff {
+
+}

@@ -1,0 +1,21 @@
+[
+{
+  "modid": "chemaff",
+  "name": "Chemical Affinity",
+  "description": "Description Goes Here Duh!",
+  "version": "1.0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Ality"
+  ],
+  "credits": "Suntium For The Amazing Textures, JimothyBob For His Help With Chemical Knowledge",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+]
+}
+]

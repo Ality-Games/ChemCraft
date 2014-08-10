@@ -1,0 +1,9 @@
+package com.Ality.chemaff.proxy;
+
+public interface IProxy {
+
+	
+	
+	
+	
+}
